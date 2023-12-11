@@ -1,2 +1,2 @@
-# Desafio_Target-Empresa_TARGET_SISTEMAS
- Teste em linguagem JavaScript
+# Desafio técnico
+## Teste em linguagem JavaScript
